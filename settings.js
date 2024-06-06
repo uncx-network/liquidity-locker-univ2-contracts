@@ -38,6 +38,10 @@ const SETTINGS = {
     V2_AMM: '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f', // Uniswap V2
     CountryList: '0x7D75876e0af45437c0ba5b7B59CA099d908f4BBE',
   },
+  '40': { // Telos
+    V2_AMM: '0xDef9ee39FD82ee57a1b789Bc877E2Cbd88fd5caE', // Vapor Dex
+    CountryList: '0x625e1b2e78DC5b978237f9c29DE2910062D80a05',
+  }
 }
 
 var contracts = SETTINGS[CHAIN]

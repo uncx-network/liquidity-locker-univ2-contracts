@@ -15,6 +15,13 @@ npx hardhat run scripts/deployCountryList.js --network optimism
 # Repo info
 This repo contains contracts for the most recent UniV2 liquidity lockers belonging to Unicrypt. There are currently 2 different versions deployed at the moment on different chains and Amms. (V1 & V2)
 
+# Latest deployments (June 2024)
+
+* Telos - Vapor dex
+- UniV2Factory: 0xDef9ee39FD82ee57a1b789Bc877E2Cbd88fd5caE
+- lockerV2: 0x08655a59381EA4fEbF210D609D52c0F2Ac47b8d1
+
+
 # Latest deployments (April 2024)
 ## Uniswap V2 on all chains
 * ETH
@@ -52,7 +59,6 @@ This repo contains contracts for the most recent UniV2 liquidity lockers belongi
 * Celo - NOT YET AVAILABLE ON UNISWAP V2
 - UniV2Factory: 
 - lockerV2: 
-
 
 
 # V2.0 UniV2 Lockers
