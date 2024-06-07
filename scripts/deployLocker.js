@@ -9,8 +9,8 @@ async function main() {
   const metamaskOwner = '0xAA3d85aD9D128DFECb55424085754F6dFa643eb1'
   const feeAddress = '0x04bDa42de3bc32Abb00df46004204424d4Cf8287'
 
-  const V2_FACTORY = "0x9e5A52f57b3038F1B8EeE45F28b3C1967e22799C"
-  const COUNTRY_LIST = "0xDffCa4B8c6DEfB2FC0fbc0a1B07D4ba34a2c1453"
+  const V2_FACTORY = "0x349aaAc3a500014981CBA11b64C76c66a6c1e8D0"
+  const COUNTRY_LIST = "0x7d322eB2F7149dE1613f4310A73254AbD08a9CC5"
 
   const UniV2Locker = await hre.ethers.getContractFactory("UniswapV2Locker")
   const univ2locker = await UniV2Locker.deploy(V2_FACTORY, COUNTRY_LIST, feeAddress)

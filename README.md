@@ -21,6 +21,10 @@ This repo contains contracts for the most recent UniV2 liquidity lockers belongi
 - UniV2Factory: 0xDef9ee39FD82ee57a1b789Bc877E2Cbd88fd5caE
 - lockerV2: 0x08655a59381EA4fEbF210D609D52c0F2Ac47b8d1
 
+* IOTA EVM - Magic Sea dex
+- UniV2Factory: 0x349aaAc3a500014981CBA11b64C76c66a6c1e8D0
+- lockerV2: 0x7f5C649856F900d15C83741f45AE46f5C6858234
+
 
 # Latest deployments (April 2024)
 ## Uniswap V2 on all chains

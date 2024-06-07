@@ -131,6 +131,11 @@ module.exports = {
       accounts: [process.env.DEPLOYER_KEY]
     },
 
+    iota: {
+      url: process.env.IOTA_EVM_PROVIDER,
+      accounts: [process.env.DEPLOYER_KEY]
+    },
+
     // this network is used for forked mainnet UI tests and requires starting a node in a seperate terminal first
     // Example:
     // npx hardhat node
