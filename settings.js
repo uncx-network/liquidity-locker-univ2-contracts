@@ -41,7 +41,11 @@ const SETTINGS = {
   '40': { // Telos
     V2_AMM: '0xDef9ee39FD82ee57a1b789Bc877E2Cbd88fd5caE', // Vapor Dex
     CountryList: '0x625e1b2e78DC5b978237f9c29DE2910062D80a05',
-  }
+  },
+  '11155111': { // sepolia
+    V2_AMM: '0xF62c03E08ada871A0bEb309762E260a7a6a880E6', // Uniswap V2
+    CountryList: '0x599886b24b0a625e4912033213d6b6188a1abca2',
+  },
 }
 
 var contracts = SETTINGS[CHAIN]
