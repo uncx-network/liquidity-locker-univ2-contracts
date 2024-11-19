@@ -56,9 +56,9 @@ This repo contains contracts for the most recent UniV2 liquidity lockers belongi
 - UniV2Factory: 0x9e5A52f57b3038F1B8EeE45F28b3C1967e22799C
 - lockerV2: 0x07DD74C2dF2bC4eB04cf8eDb2F695AA79Ba590Eb
 
-* Sepolia - Testnet - NOT YET AVAILABLE ON UNISWAP V2
-- UniV2Factory: 
-- lockerV2: 
+* Sepolia
+- UniV2Factory: 0xF62c03E08ada871A0bEb309762E260a7a6a880E6
+- lockerV2: 0x3075530A0524c2cAeb80Ac44A2cBAd15C82eb946
 
 * Celo - NOT YET AVAILABLE ON UNISWAP V2
 - UniV2Factory: 
